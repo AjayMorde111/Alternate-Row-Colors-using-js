@@ -1,0 +1,14 @@
+body{
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
